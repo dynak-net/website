@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "dejavu-sans-mono";
+  src: url("../fonts/DejaVuSansMono.ttf");
+}
+
+body {
+  background-color: #000000;
+  font-family: "dejavu-sans-mono";
+}
+
+#logo {
+  display: block;
+  margin: auto;
+}
+
+#vat {
+  color: #ffffff;
+  text-align: center;
+}
